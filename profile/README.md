@@ -7,14 +7,19 @@ Projeto do Grupo 10 da disciplina de Laboratório de Engenharia de Software Apli
 
 - **App de Estágios para Estudantes da Unipampa**
 
+- [Wiki](https://estagiou.gitbook.io/estagioudocs)
+- [Figma](https://www.figma.com/design/QattihCQNgA4VQXPLNBqNY/Prototipo-Estagiou?node-id=0-1&t=4G9N7O98fOdAWUu1-0)
+
 ## Roadmap
 
 - **Elicitação dos Requisitos:**
+    - [X] Questionário
     - [x] MoSCoW
-    - [ ] Protótipos
+    - [X] Protótipos
 
 - **Processo de Desenvolvimento:**
     - [X] Template SpringBoot MVC
+    - [ ] Template Flutter
 
 - **Verificação e Validação:**
     - [ ] Casos de Teste
