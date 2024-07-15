@@ -14,12 +14,16 @@ Projeto do Grupo 10 da disciplina de Laboratório de Engenharia de Software Apli
 
 - **Elicitação dos Requisitos:**
     - [X] Questionário
+    - [X] Personas
     - [x] MoSCoW
     - [X] Protótipos
+ 
+- **Diagramas**
+    - [X] Conceitual
 
 - **Processo de Desenvolvimento:**
     - [X] Template SpringBoot MVC
-    - [ ] Template Flutter
+    - [X] Template Flutter
 
 - **Verificação e Validação:**
     - [ ] Casos de Teste
